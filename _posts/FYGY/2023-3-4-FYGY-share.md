@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 非遗古乐--3月4日分享
-permalink: /FYGY-share-20230304/
+permalink: /FYGY/share-20230304/
 ---
 
 ### 非遗古乐现自然，身心被唤妙体验！
