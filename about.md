@@ -8,6 +8,8 @@ permalink: /about/
 
 I’m a middle school student
 
+the Blog Discussions: [Go!](<https://github.com/xieyuen/xieyuen.github.io/disscussions>)
+
 ### Contact me
 
 Email: [xieyuenol@outlook.com](<mailto:xieyuenol@outlook.com>)<br>
