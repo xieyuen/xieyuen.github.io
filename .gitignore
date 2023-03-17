@@ -1,10 +1,20 @@
-_site
+# macOS
 .DS_Store
-.jekyll
-.jekyll-metadata
-.bundle
-.sass-cache
-Gemfile
-Gemfile.lock
-node_modules
-package.json
+
+# Windows
+Thumbs.db
+
+# phpMyAdmin
+irb-x/
+irb-x@
+irb-x*
+
+# Piwic
+analytics/
+analytics@
+analytics*
+
+# Let's Encrypt
+.well-known/
+.well-known@
+.well-known*
