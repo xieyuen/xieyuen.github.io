@@ -1,5 +1,5 @@
-# Personal Page
+# My Personal Page -- Home
 
-测试
+[*https://xieyuen.github.io*](<https://xieyuen.github.io>) is my personal page
 
-能看到吗
+[*https://xieyuen.github.io/blog.github.io*](<https://xieyuen.github.io/blog.github.io>) is my personal blog
